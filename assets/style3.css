@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+#navbarName{
+    margin-left: 70px;
+    padding: 10px;
+}
+#navbarAll{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-bottom: 1px solid black;
+    background-color: #e3f2fd;
+}
+img{
+    width: 250px;
+    height: 150px;
+    padding: 10px;
+    background-color: #e3f2fd;
+}
+.biggerContainer{
+    padding-bottom: 170px;
+    padding-top: 40px;
+    background-image: url(https://cdn5.f-cdn.com/contestentries/1476645/3722903/5c790acfaed94_thumb900.jpg)
+}
+.smallerContainer{
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 320px;
+}
